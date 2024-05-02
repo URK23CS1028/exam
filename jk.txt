@@ -1,0 +1,2 @@
+install git
+git issue address and slove
